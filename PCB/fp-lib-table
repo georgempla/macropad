@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Generic Connectors")(type "KiCad")(uri "C:/Users/georg/Downloads/Connector_PinHeader_2.54mm.pretty")(options "")(descr "")(disabled))
+  (lib (name "Screens")(type "KiCad")(uri "C:/Users/georg/Downloads/Display.pretty")(options "")(descr "")(disabled))
+  (lib (name "OPL Lib")(type "KiCad")(uri "C:/Users/georg/Downloads/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "Resistor")(type "KiCad")(uri "C:/Users/georg/Downloads/Resistor_THT.pretty")(options "")(descr ""))
+  (lib (name "Display")(type "KiCad")(uri "C:/Users/georg/Downloads/KiCad-SSD1306_OLED-0.91-128x32-master/KiCad-SSD1306_OLED-0.91-128x32-master")(options "")(descr "")(disabled))
+  (lib (name "Oled")(type "KiCad")(uri "C:/Users/georg/Downloads/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master")(options "")(descr ""))
+)
